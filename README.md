@@ -33,7 +33,7 @@
 
 #### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/NodeJS-4EA94B?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NodeJS-4EA94B?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 #### Databases:
 ![MySql](https://img.shields.io/badge/MySQL-4285F4?style=for-the-badge&logo=MySql&logoColor=white)&nbsp;
