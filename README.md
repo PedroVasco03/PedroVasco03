@@ -29,6 +29,7 @@
 #### Secondary Stack:
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PHP-316192?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -39,6 +40,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/WINDOWS-E95420?style=for-the-badge&logo=WINDOWS&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
