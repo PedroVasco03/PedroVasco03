@@ -40,7 +40,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/VScode-4285F4?style=for-the-badge&logo=VScode&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/WINDOWS-E95420?style=for-the-badge&logo=WINDOWS&logoColor=white)&nbsp;
 
 &nbsp;
