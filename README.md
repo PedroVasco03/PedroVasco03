@@ -29,13 +29,14 @@
 #### Secondary Stack:
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PHP-316192?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-316192?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NodeJS-4EA94B?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;
 
 #### Databases:
-
+![MySql](https://img.shields.io/badge/MySQL-4285F4?style=for-the-badge&logo=MySql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
