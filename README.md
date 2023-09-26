@@ -1,3 +1,5 @@
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVasco03&layout=compact&theme=dracula)
+
 
 &nbsp;&nbsp;&nbsp;
 
