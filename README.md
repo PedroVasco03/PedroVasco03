@@ -1,4 +1,4 @@
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroVasco03)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Hello, I'm <b>Pedro Vasco</b>, front-end web developer using ReactJS & NextJS, I'm passionate about discovering new things and using them to create high-quality solutions. Today, I'm a mid-level developer focused on web development.</p>&nbsp;
