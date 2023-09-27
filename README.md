@@ -5,7 +5,8 @@
 
 <div  align="center" style="margin-bottom:100px">
  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=PedroVasco03&show_icons=true&bg_color=00000000" />
-<img width=50% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PedroVasco03&show_icons=true&theme=radical&layout=compact" />
+ 
+ <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PedroVasco03&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
