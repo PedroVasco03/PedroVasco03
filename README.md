@@ -4,6 +4,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Hello, I'm <b>Pedro Vasco</b>, front-end web developer using ReactJS & NextJS, I'm passionate about discovering new things and using them to create high-quality solutions. Today, I'm a mid-level developer focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVasco03&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PedroVasco03&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PedroVasco03&show_icons=true&theme=radical&layout=compact" />
  </div>
